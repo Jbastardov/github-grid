@@ -1,0 +1,26 @@
+.navbar {
+  padding: 20px;
+  background-color: #aad8d3;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+}
+
+.error {
+  display: flex;
+  justify-content: center;
+}
+
+.grid {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
